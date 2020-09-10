@@ -19,6 +19,6 @@ def move(board, index, token="X")
   board[index] = token
 
 end
-def method_name
+def turn
 
 end
